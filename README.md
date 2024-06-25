@@ -37,5 +37,9 @@ Without further ado, this is the list:
     2. [GPipe: Easy Scaling with Micro-Batch Pipeline Parallelism](https://arxiv.org/pdf/1811.06965)
     3. [Neural Message Passing for Quantum Chemistry](https://arxiv.org/pdf/1704.01212)
     4. [Machine Super Intelligence](https://www.vetta.org/documents/Machine_Super_Intelligence.pdf)
-  
-*Note:* Please feel free to create PRs with the modifications you consider necessary to this repo. I will try my best to review them ASAP.
+
+
+
+**Notes:** 
+- Understanding these papers might be quite difficult if you're not familiar with machine learning concepts. Therefore, if you've never taken any courses in machine learning before, I wholeheartedly recommend starting with Andrew Ng's specializations on [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction) and [Deep Learning](https://www.coursera.org/specializations/deep-learning?) before diving into this list.
+- Please feel free to create PRs with the modifications you consider necessary to this repo. I will try my best to review them ASAP.
